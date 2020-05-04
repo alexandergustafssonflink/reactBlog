@@ -6,7 +6,7 @@ import Header from "./components/Header";
 function App() {
   return (
     <div className="blog">
-      <Header> En alldeles unik blog</Header>
+      <Header> En alldeles unik blogg</Header>
       <Home />
     </div>
   );
